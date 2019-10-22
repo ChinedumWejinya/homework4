@@ -1,0 +1,13 @@
+<form action="#" method = "post"> 
+	<fieldset>
+<legend>Personal Information:</legend>
+<label for="name">Name</label>
+<input type="text" id = "name"><br/>
+<label> Email:
+<input type="email" value = "email@umich.edu">
+</label><br/>
+<label for="birth">Date of birth:</label>
+<input type="date" id = "birth"><br>
+<input type = "submit" value = "Save!">
+</fieldset>
+</form> 
